@@ -1,5 +1,5 @@
 export const homeDetails = {
-  name: 'Juan Dela Cruz',
+  name: 'Michelle Jean Sudaria',
   position: 'Junior Full Stack Developer',
   country: 'Philippines',
 };
