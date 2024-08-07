@@ -8,17 +8,17 @@ export const aboutList1 = [
   {
     id: 1,
     description: 'Email',
-    value: 'juandelacruz@email.com',
+    value: 'vasudaria85@gmail.com',
   },
   {
     id: 2,
     description: 'Phone',
-    value: '+639123456789',
+    value: '+639176969156',
   },
   {
     id: 3,
-    description: 'City',
-    value: 'Baguio City',
+    description: 'Location',
+    value: 'San Jose Del Monte, Bulacan',
   },
 ];
 
@@ -31,32 +31,32 @@ export const aboutList2 = [
   {
     id: 2,
     description: 'Hobbies',
-    value: 'Basketball, Computer Games, Hiking',
+    value: 'Rubik's Cube, Crocheting, Hiking',
   },
   {
     id: 3,
     description: 'Languages Spoken',
-    value: 'English, Filipino',
+    value: 'English, Tagalog, Bisaya',
   },
 ];
 
 export const aboutList3 = [
   {
     id: 1,
-    school: 'Hogwarts University',
-    year: '2006',
+    school: 'Matiao Central Elementary School',
+    year: '1997',
     course: 'Elementary',
   },
   {
     id: 2,
-    school: 'Hogwarts University',
-    year: '2012',
+    school: 'Mati National Comprehensive High School',
+    year: '2002',
     course: 'Senior High School',
   },
   {
     id: 3,
-    school: 'Hogwarts University',
-    year: '2016',
+    school: 'Davao Oriental State College of Science and Technology',
+    year: '2007',
     course: 'Bachelor of Science in Computer Science',
   },
 ];
