@@ -1,3 +1,3 @@
 export const footerDetails = {
-  name: 'Michelle Jean Sudaria',
+  name: 'Michelle Jean G. Sudaria',
 };
