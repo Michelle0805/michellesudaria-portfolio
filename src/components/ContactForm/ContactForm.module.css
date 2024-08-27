@@ -16,7 +16,7 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  background-color: rgba(157, 164, 189, 0.12);
+  background-color: rgba(233, 235, 241, 0.681);
   margin-bottom: 40px;
   row-gap: 40px;
   padding: 10px 20px;
@@ -49,10 +49,11 @@
 
 .contactDesc {
   margin-bottom: 10px;
+  color: var(--PRIMARY);
 }
 
 .form {
-  background-color: rgba(157, 164, 189, 0.12);
+  background-color: rgba(233, 235, 241, 0.681);
   padding: 60px 20px;
   display: flex;
   flex-direction: column;
