@@ -4,7 +4,7 @@
   margin: 20px 0;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: var(--DARK);
+  color: var(--LIGHT);
 }
 
 .title::after {
@@ -22,5 +22,5 @@
   font-weight: 700;
   text-transform: uppercase;
 
-  color: var(--DARK);
+  color: var(--LIGHT);
 }
