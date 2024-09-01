@@ -55,8 +55,8 @@ export const projects = [
   {
     id: 8,
     src: project8,
-    name: 'Movie Search',
-    href: 'https://michelle0805.github.io/goit-react-hw-05-movies/',
+    name: 'Filmoteka',
+    href: 'https://jmatela26.github.io/team-project-filmoteka/',
   },
   {
     id: 9,
