@@ -25,8 +25,8 @@ export const projects = [
   {
     id: 3,
     src: project3,
-    name: 'Feedback Form',
-    href: 'https://michelle0805.github.io/goit-js-hw-08/03-feedback.html',
+    name: 'Slim Mom App',
+    href: 'https://mayotopia04.github.io/Team-Outfit/',
   },
   {
     id: 4,
