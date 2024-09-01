@@ -37,8 +37,8 @@ export const projects = [
   {
     id: 5,
     src: project5,
-    name: 'Cat Project',
-    href: 'https://michelle0805.github.io/goit-js-hw-10/',
+    name: 'The Watch Spot',
+    href: 'https://michelle0805.github.io/project-team/',
   },
   {
     id: 6,
