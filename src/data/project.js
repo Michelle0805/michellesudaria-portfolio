@@ -32,7 +32,7 @@ export const projects = [
     id: 4,
     src: project4,
     name: 'Color Switcher',
-    href: 'https://michelle0805.github.io/goit-js-hw-09/',
+    href: 'https://michelle0805.github.io/goit-js-hw-09/01-color-switcher.html',
   },
   {
     id: 5,
